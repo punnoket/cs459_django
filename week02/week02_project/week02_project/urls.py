@@ -24,8 +24,8 @@ urlpatterns = [
     url(r'^person/(?P<pk>[0-9]+)$', views.UpdatePersonView.as_view()),
     url(r'^person_list/$', views.ListPersonView.as_view(), name='person_list'),
     url(r'^gallery/$', views.MyGallery, name='gallery'),
-    url(r'^gallery/session$', views.GetSession, name='gallery/session'),
-    url(r'^getSession/(\d+)$', views.GetSession, name='getSession')
+    url(r'^session/$', views.GetSession, name='session'),
+    url(r'^getSession/$', views.GetSession, name='getSession')
 
 ]
 

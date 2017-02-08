@@ -13,10 +13,9 @@ def MyGallery(request):
 	images = Image.objects.all()
 	return render(request, 'gallery.html', {'images': images})
 
-def GetSession(request, id):
-	if(request.GET.get('mybtn')):
-		request.session['x'] = request.session.get('x',0) + 1
-		request.session['y'] = request.session.get('y',0) + 1
+def GetSession(request):
+	request.session['x'] = request.session.get('x',0) + 1
+	request.session['y'] = request.session.get('y',0) + 1
 	if request.session['x']==1:
 		exp = timezone.localtime(timezone.now())  +timedelta(seconds=10)
 		request.session.set_expiry( 10 )
