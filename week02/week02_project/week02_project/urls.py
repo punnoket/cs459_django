@@ -16,6 +16,7 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from myapp import views
+from django.core.urlresolvers import reverse
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', views.home, name='home'),
@@ -23,7 +24,8 @@ urlpatterns = [
     url(r'^person/(?P<pk>[0-9]+)$', views.UpdatePersonView.as_view()),
     url(r'^person_list/$', views.ListPersonView.as_view(), name='person_list'),
     url(r'^gallery/$', views.MyGallery, name='gallery'),
-    url(r'^gallery/session$', views.GetSession, name='gallery/session'),          
+    url(r'^gallery/session$', views.GetSession, name='gallery/session'),
+    url(r'^getSession/(\d+)$', views.GetSession, name='getSession')
 
 ]
 

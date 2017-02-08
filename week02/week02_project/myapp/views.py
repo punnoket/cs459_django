@@ -4,7 +4,6 @@ from forms import PersonForm
 from models import Person, Image
 from datetime import datetime, timedelta
 from django.utils import timezone
-
 from django.shortcuts import render
 
 def home(request):
@@ -15,8 +14,9 @@ def MyGallery(request):
 	return render(request, 'gallery.html', {'images': images})
 
 def GetSession(request, id):
-	request.session['x'] = request.session.get('x',0) + 1
-	request.session['y'] = request.session.get('y',0) + 1
+	if(request.GET.get('mybtn')):
+		request.session['x'] = request.session.get('x',0) + 1
+		request.session['y'] = request.session.get('y',0) + 1
 	if request.session['x']==1:
 		exp = timezone.localtime(timezone.now())  +timedelta(seconds=10)
 		request.session.set_expiry( 10 )
@@ -28,9 +28,8 @@ def GetSession(request, id):
 			'server_datetime_local': timezone.localtime( timezone.now() ).isoformat(),
 			'expiry_datetime_local': timezone.localtime( request.session.get_expiry_date() ).isoformat(),
 			'expiry_datetime_utc': request.session.get_expiry_date().isoformat(),
-			'id': id
-
 		})
+
 
 
 class CreatePersonView(CreateView):

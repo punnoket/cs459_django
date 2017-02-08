@@ -13,7 +13,8 @@
 
     {% for i in images %}
 
- 		<img src="{{i.image.url}}" onclick="{{views.GetSession.mess}}"> </img>
+ 		<img src="{{i.image.url}}"> </img>
+		<a href="{% url 'getSession' 1 %}">test</a>
 
     {% endfor %}
 {% endblock %}
