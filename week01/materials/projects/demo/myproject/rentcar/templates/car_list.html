@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Cars</h1>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12" >
+			{% for c in object_list %}
+				<a href="/cars" class="thumbnail">
+		        <p>Milage: {{ c.milage }} km</p>
+				<p>Price per day: {{ c.ppd }} THB</p>
+		        <img src="{{ c.image.url }}" alt="{{ c.models }}" style="width:300px;">
+		      	</a>
+			{% empty %}
+			    <div class="jumbotron">
+			    <h1>No car yet!</h1>  
+			  	</div>
+			{% endfor %}
+		</div>	
+	</div>
+</div>
+{% endblock %}
+
+<div class="row">
+    <div class="col-md-4">
+      <a href="pulpitrock.jpg" class="thumbnail">
+        <p>Pulpit Rock: A famous tourist attraction in Forsand, Ryfylke, Norway.</p>
+        <img src="pulpitrock.jpg" alt="Pulpit Rock" style="width:150px;height:150px">
+      </a>
+    </div>

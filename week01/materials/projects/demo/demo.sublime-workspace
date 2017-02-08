@@ -1,0 +1,1143 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"fc",
+				"fcr"
+			],
+			[
+				"fcr",
+				"fcr_id"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"FCR",
+				"FCRLocation"
+			],
+			[
+				"emplo",
+				"employee"
+			],
+			[
+				"cust",
+				"customer_id"
+			],
+			[
+				"is",
+				"is_show_fcr"
+			],
+			[
+				"app",
+				"approving"
+			],
+			[
+				"j",
+				"job_status"
+			],
+			[
+				"Fc",
+				"FCR"
+			],
+			[
+				"n",
+				"nfcr"
+			],
+			[
+				"cus",
+				"customer"
+			],
+			[
+				"sta",
+				"job_status"
+			],
+			[
+				"cu",
+				"customer"
+			],
+			[
+				"Cu",
+				"Customer"
+			],
+			[
+				"list",
+				"list_display"
+			],
+			[
+				"Mo",
+				"ModelAdmin"
+			],
+			[
+				"ur",
+				"urlpatterns"
+			],
+			[
+				"tam",
+				"team_name"
+			],
+			[
+				"c",
+				"collector"
+			],
+			[
+				"coll",
+				"collector"
+			],
+			[
+				"s",
+				"stringify"
+			],
+			[
+				"se",
+				"selected_scode"
+			],
+			[
+				"sele",
+				"selected_collector"
+			],
+			[
+				"get",
+				"get_accounts"
+			],
+			[
+				"employee",
+				"employee_id"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"collector",
+				"Collector"
+			],
+			[
+				"pid",
+				"pid00a"
+			],
+			[
+				"Co",
+				"Collector"
+			],
+			[
+				"ac",
+				"activity_code"
+			],
+			[
+				"cha",
+				"CharField"
+			],
+			[
+				"v",
+				"visit_datetime"
+			],
+			[
+				"Addres",
+				"AddressSerializer"
+			],
+			[
+				"cum",
+				"customer_id"
+			],
+			[
+				"F",
+				"ForeignKey"
+			],
+			[
+				"ad",
+				"address"
+			],
+			[
+				"ptp",
+				"ptp_id"
+			],
+			[
+				"Fo",
+				"forEach"
+			],
+			[
+				"ele",
+				"element_id"
+			],
+			[
+				"re",
+				"remove_element"
+			],
+			[
+				"clear",
+				"clear_review"
+			],
+			[
+				"input",
+				"input_review_date"
+			],
+			[
+				"pe",
+				"add_ptp_element"
+			],
+			[
+				"pt",
+				"ptpelement_set"
+			],
+			[
+				"to",
+				"total_amount"
+			],
+			[
+				"PTP",
+				"PTPElement"
+			],
+			[
+				"a",
+				"account"
+			],
+			[
+				"Ac",
+				"ActivityCode"
+			],
+			[
+				"D",
+				"DecimalField"
+			],
+			[
+				"q",
+				"queue"
+			],
+			[
+				"Av",
+				"ActivityAdmin"
+			],
+			[
+				"acti",
+				"activity_code"
+			],
+			[
+				"collecto",
+				"collector_id"
+			],
+			[
+				"col",
+				"collector"
+			],
+			[
+				"custom",
+				"customer"
+			],
+			[
+				"so",
+				"scope"
+			],
+			[
+				"customer",
+				"customer_id"
+			],
+			[
+				"acco",
+				"account_no"
+			],
+			[
+				"aut",
+				"auto_assign"
+			],
+			[
+				"auto",
+				"auto_assign_app"
+			],
+			[
+				"address",
+				"address_type"
+			],
+			[
+				"jso",
+				"json_account_list"
+			],
+			[
+				"account",
+				"account_list"
+			],
+			[
+				"Account",
+				"AccountSerializer"
+			],
+			[
+				"A",
+				"Account"
+			],
+			[
+				"action",
+				"action_by"
+			],
+			[
+				"Ta",
+				"TableSerializer"
+			],
+			[
+				"serial",
+				"serializers"
+			],
+			[
+				"o",
+				"onclick"
+			],
+			[
+				"ed",
+				"editbtn"
+			],
+			[
+				"thai",
+				"thai_first_name"
+			],
+			[
+				"Tab",
+				"Table"
+			],
+			[
+				"Car",
+				"CarModelFormEdit"
+			],
+			[
+				"Fr",
+				"FormActions"
+			],
+			[
+				"Ad",
+				"admin"
+			],
+			[
+				"U",
+				"UserCode"
+			],
+			[
+				"Accoun",
+				"AccountType"
+			],
+			[
+				"my",
+				"myformfactory"
+			],
+			[
+				"Cus",
+				"customer"
+			],
+			[
+				"p",
+				"primary_key"
+			],
+			[
+				"te",
+				"tel_number"
+			],
+			[
+				"th",
+				"thai_fisrt_name"
+			],
+			[
+				"C",
+				"Collector"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"sho",
+				"show_table"
+			],
+			[
+				"main",
+				"main-sidebar"
+			],
+			[
+				"mode",
+				"model_list"
+			],
+			[
+				"type",
+				"typeahead"
+			],
+			[
+				"_",
+				"_username"
+			],
+			[
+				"la",
+				"labeller"
+			],
+			[
+				"User",
+				"username"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"labe",
+				"labels"
+			],
+			[
+				"batch",
+				"batch_id"
+			],
+			[
+				"labels",
+				"_labels"
+			],
+			[
+				"show",
+				"shownav"
+			],
+			[
+				"svg",
+				"svg_w"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"edit",
+				"editSave"
+			],
+			[
+				"mo",
+				"mouseup"
+			],
+			[
+				"cie",
+				"circles"
+			],
+			[
+				"sam",
+				"SampleDelete"
+			],
+			[
+				"e",
+				"edit_id"
+			],
+			[
+				"change",
+				"change_password"
+			],
+			[
+				"Re",
+				"RentSerializer"
+			],
+			[
+				"u2_",
+				"u2_load2"
+			],
+			[
+				"float",
+				"float_15"
+			],
+			[
+				"char",
+				"char_20"
+			],
+			[
+				"mouse",
+				"mouseUp"
+			],
+			[
+				"Customer",
+				"Customer"
+			],
+			[
+				"Question",
+				"QuestionList"
+			],
+			[
+				"sign",
+				"signin"
+			],
+			[
+				"cla",
+				"ClassName"
+			],
+			[
+				"d",
+				"datetime"
+			],
+			[
+				"conta",
+				"contact_list"
+			],
+			[
+				"fo",
+				"forecast"
+			],
+			[
+				"isra",
+				"israin"
+			],
+			[
+				"date",
+				"date_of_birth"
+			],
+			[
+				"vi",
+				"views"
+			],
+			[
+				"Ex",
+				"Extension"
+			],
+			[
+				"Exte",
+				"ExtensionSerializer"
+			],
+			[
+				"rout",
+				"router"
+			],
+			[
+				"r",
+				"routers"
+			],
+			[
+				"view",
+				"viewsets"
+			],
+			[
+				"Rent",
+				"RentForm"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "myproject/rentcar/views.py",
+			"settings":
+			{
+				"buffer_size": 699,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "myproject/rentcar/admin.py",
+			"settings":
+			{
+				"buffer_size": 436,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "myproject/myproject/settings.py",
+			"settings":
+			{
+				"buffer_size": 3339,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "myproject/rentcar/forms.py",
+			"settings":
+			{
+				"buffer_size": 757,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "myproject/myproject/urls.py",
+			"settings":
+			{
+				"buffer_size": 1227,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "myproject/rentcar/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 832,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/wl_auth/templates/login.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/mapping/app/admin.py",
+		"/C/Users/Wasit/Desktop/cs102/README.md",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/dynamic/models.json",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/mapping/app/views.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/mapping/app/scripts/setup_dev.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/mapping/app/scripts/p000_gen_models.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/mapping/app/scripts/load_excel.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/models.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/mapping/app/models.py",
+		"/C/Users/Wasit/Documents/GitHub/algae2/algae_project/algae_project/settings.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/admin.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/wl_project/settings.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/urls.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/views.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/auto_assign.py",
+		"/C/Users/Wasit/AppData/Local/Temp/7zO5B21.tmp/sqrt2.c",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/pages/upload_file.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/38b_collector_by_collector.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/35a_move_class_onebyone.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/.gitignore",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/p005_upload_data.py",
+		"/C/Users/Wasit/Desktop/note170110.txt",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/wl_auth/views.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/modeleditor_project/modeleditor_project/urls.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/26_fcr_case_request_approve.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/pages/pid00a.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/35_move_class_onebyone.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/pages/pid49b.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/pages/pid49.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/setup_dev.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/setup_demo.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/pages/pid37.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/04_collector_creditcard_legal_1.html",
+		"/C/Users/Wasit/Desktop/test_n03_gendata_add_3_accounts.csv",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/fcr_tab_balance_info.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/25a_fcr_case_request.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/n03_collector_creditcard_balance.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/dynamic/_account.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/00a_power_search.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/23a_collector_fcr.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/serializers.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/49a_supervisor_today.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/49b_fcr_list.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/wl_project/main/templates/04_collector_creditcard_legal_1.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/wl_project/main/templates/05_collector_creditcard_legal_2.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/wl_project/main/templates/06_collector_creditcard_legal_3.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/wl_project/main/templates/07_collector_creditcard_legal_4.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/wl_project/main/templates/08_collector_creditcard_relationship_1.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/wl_project/main/templates/09_collector_creditcard_relationship_2.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/wl_project/main/templates/11_collector_creditcard_relationship_3_2.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/wl_project/main/templates/12_collector_creditcard_relationship_3_3.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/wl_project/main/templates/14_collector_creditcard_userdefined.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/wl_project/main/templates/10_collector_creditcard_relationship_3_1.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/dcs_commit_103.txt",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/wl_project/urls.py",
+		"/C/Users/Wasit/Documents/GitHub/algae2/algae_project/manage.py",
+		"/C/Users/Wasit/Documents/GitHub/algae2/algae_project/algae_app/scripts/setup_dev.py",
+		"/C/Users/Wasit/Documents/GitHub/algae2/algae_project/algae_app/scripts/00_init_db.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/base.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/p030_testing.ipynb",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/admin_choice.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/choice_models.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/dashboard_admin.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/p010_classification.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/mysetup.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/setup.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/dashboard_supervisor.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/p003_update_user_group.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/p007_sgroup.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/38a_collector_by_collector.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/37_permanent_collector.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/38_collector_by_collector.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/static/plugins/datetimepicker/wl-angular-eonasdan-datetimepicker.js",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/pages/pid00.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/tab_balance_info.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/update_user_groups.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/61_supervisor_new.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/p000_gen_models.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/dynamic/choices.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/dynamic/dmodels.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/dynamic/dmodels.json",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/p002_init_db.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/blank.html",
+		"/C/Users/Wasit/Downloads/test_n03_gendata.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/p030_testing.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/p040_update_total_balance_on_collector.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/p012_setup_sgroup.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/p020_auto_assign.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/df1.tsv",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/23_collector_fcr.html",
+		"/C/Users/Wasit/Downloads/xampp-linux-x64-5.6.28-0-installer.run",
+		"/C/Users/Wasit/Downloads/xampp-linux-x64-5.6.28-0-installer (1).run",
+		"/C/Users/Wasit/Downloads/xampp.pem",
+		"/C/tools/remote/earn/xampp.pem",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/21_collector_ptp.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/readme.md",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/19_collector_action_details.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/22_collector_ptp_edit.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/static/date-euro.js",
+		"/C/Users/Wasit/Downloads/p030_testing (1).py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/setup_sgroup.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/auto_assign.html",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/templates/00_power_search.html",
+		"/C/Users/Wasit/Desktop/earn.html",
+		"/C/Users/Wasit/AppData/Local/Temp/7zO4EC2.tmp/tlEventController.js",
+		"/C/Users/Wasit/AppData/Local/Temp/7zO2A80.tmp/appService.js",
+		"/C/Users/Wasit/Downloads/generalNews.php",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/p00_ImportData_sample2.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/p02_job_assigning2.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/p01_Classification.py",
+		"/C/Users/Wasit/Desktop/djang0_setup_history.txt",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/p_gen_models.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/_auto_assign.bat",
+		"/C/Users/Wasit/Downloads/Setup-PostgresDB.txt",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/012_setup_sgroup.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/README.md",
+		"/C/Users/Wasit/Downloads/p_gen_models (3).py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/p03_testing.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/p02_ManageQueue.py",
+		"/C/Users/Wasit/Downloads/p03_testing.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/main/scripts/main.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/scripts/03_testing.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/scripts/main.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/scripts/__init__.py",
+		"/C/Users/Wasit/Documents/GitHub/dcollector/alpha/wl_project/scripts/_initdb.py",
+		"/C/Users/Wasit/Downloads/03_testing.py",
+		"/C/Users/Wasit/Documents/GitHub/tutorials/django/django_generic_view/rest/rest/settings.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"views",
+			"on_delete=models.CASCADE",
+			" = m",
+			"strate",
+			"script",
+			"created",
+			"_",
+			"historicalR",
+			"his",
+			"account_id",
+			"get_account_info",
+			"reassign",
+			"scope.get_account_info",
+			"OK",
+			"ok",
+			"pid35a_customer_change_scode",
+			"35a",
+			"8136",
+			"8872",
+			"81368872",
+			"upload",
+			" input-custom",
+			"id=\"datepicker\"",
+			"FCR",
+			"Remar",
+			"important",
+			"Remar",
+			"models.SET_NULL",
+			"FCR",
+			"on_de",
+			"49b",
+			"26",
+			"03",
+			"FCR",
+			"n03",
+			"Customer",
+			"customer",
+			"23a",
+			"FCR",
+			"activity",
+			"23a",
+			"23b",
+			"customer",
+			"_reject",
+			"reject/",
+			"fcr_cancel",
+			"cancel",
+			"post",
+			"cancel",
+			"repla",
+			"accounts",
+			"49b",
+			"fcr_list_all",
+			"customer_id",
+			"fcr",
+			"5b",
+			"5a",
+			"a",
+			"pid",
+			"U0",
+			"R0",
+			"L0",
+			"Foreign",
+			"_choice",
+			"choice",
+			"Qwer--",
+			"Qwer--Admin",
+			"Organization",
+			"AgreementStatus",
+			"ZipCode",
+			"StateCode",
+			"UserCode",
+			"BlockCode",
+			"LegalCode",
+			"Organization",
+			"ReasonCode",
+			"organization",
+			"Organization",
+			"AgreementStatus",
+			"his",
+			"simple",
+			" =",
+			"stra",
+			"site_title",
+			"admin.site.site_ti",
+			"home",
+			"filter",
+			"49a",
+			", ",
+			"pid49",
+			"today",
+			"p=json.loads(p_json)\n	e=Employee.objects.get(pk=p[\"employee_id\"])\n	qs=[]\n	qs.append( Q( customer__queue__collector = e ) )",
+			"e=Employee.objects.get(pk=p[\"employee_id\"])	\n	qs=[]\n	qs.append( Q( customer__queue__collector = e ) )",
+			"p=json.loads(p_json)\n	e=Employee.objects.get(pk=p[\"employee_id\"])	\n	qs=[]\n	qs.append( Q( customer__queue__collector = e ) )",
+			"unique",
+			"account_today_list",
+			"today_tab",
+			"49a",
+			"i",
+			"accounts/1234",
+			"get_accounts",
+			"filter",
+			"accounts",
+			"$scope.accounts",
+			"accounts",
+			"emplyee_id",
+			"select",
+			"data",
+			"new",
+			"pid37_ctrl",
+			"pid37_app",
+			"pid37_ctrl",
+			"pid37_app",
+			"pid37",
+			"pid35a_customer_change_scode",
+			"reas",
+			"get_account_info",
+			"selec",
+			"collector_id",
+			"pid37_reassign",
+			"CUstomer",
+			"collector_id",
+			"fin",
+			"finis",
+			"\",",
+			"\":\"",
+			"selecte",
+			"class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"r",
+			"ag.cmax",
+			"dist_thirdparty/",
+			"col-xs",
+			"\\t",
+			"\"{% static '",
+			"\"{% static \"",
+			"\"{% static \"assets",
+			"../static/assets",
+			"../static",
+			"assets",
+			"",
+			",",
+			"\"type\"",
+			"\"target\"",
+			"\"source\"",
+			"http://localhost:5000/static/",
+			"./",
+			"theta_dim",
+			"spi",
+			"log",
+			"log/ev01"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "myproject/rentcar/views.py",
+					"settings":
+					{
+						"buffer_size": 699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								259
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "myproject/rentcar/admin.py",
+					"settings":
+					{
+						"buffer_size": 436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "myproject/myproject/settings.py",
+					"settings":
+					{
+						"buffer_size": 3339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "myproject/rentcar/forms.py",
+					"settings":
+					{
+						"buffer_size": 757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								668,
+								668
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "myproject/myproject/urls.py",
+					"settings":
+					{
+						"buffer_size": 1227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "myproject/rentcar/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								518,
+								518
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 29.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Wasit/Desktop/test_project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true
+}
